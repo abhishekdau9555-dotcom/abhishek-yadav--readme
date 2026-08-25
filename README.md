@@ -96,12 +96,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekdau9555-dotcom&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekdau9555-dotcom&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekdau9555-dotcom&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdau9555-dotcom&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdau9555-dotcom&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=abhishekdau9555-dotcom&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -115,4 +115,4 @@
   <a href="https://share.google/cQ6XRNTOosiS9bMrI" target="_blank">LeetCode</a>
 </p>
 
-<p align="center"><em>📍 Noida, Uttar Pradesh, India</em></p>
+<p align="center"><em>📍 Noida, Uttar Pradesh, India</em></p> Pradesh, India</em></p>
